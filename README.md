@@ -1,6 +1,6 @@
 # CSES Solutions
 
-Over 32 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by PGB [(nulltype)](https://cses.fi/user/115928).
+Over 32 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by [PGB](https://cses.fi/user/115928).
 
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
