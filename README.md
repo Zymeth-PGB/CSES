@@ -54,7 +54,7 @@ Over 32 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/
 7. [Collecting Numbers](/Sorting%20and%20Searching/Collecting_Numbers.cpp)
 8. [Collecting Numbers II](/Sorting%20and%20Searching/Collecting_Numbers_II.cpp)
 9. [Playlist](/Sorting%20and%20Searching/Playlist.cpp)
-10. [Towers](/Sorting%20and%20Searching/Towers.cpp)
+<!-- 10. [Towers](/Sorting%20and%20Searching/Towers.cpp)
 11. [Traffic Lights](/Sorting%20and%20Searching/Traffic_Lights.cpp)
 12. [Josephus Problem I](/Sorting%20and%20Searching/Josephus_Problem_I.cpp)
 13. [Josephus Problem II](/Sorting%20and%20Searching/Josephus_Problem_II.cpp)
@@ -349,4 +349,4 @@ Over 32 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/
 1. [Permutations II](/Additional%20Problems/Permutations_II.cpp)
 1. [Functional Graph Distribution](/Additional%20Problems/Functional_Graph_Distribution.cpp)
 1. [New Flight Routes](/Additional%20Problems/New_Flight_Routes.cpp)
-1. [Grid Path Construction](/Additional%20Problems/Grid_Path_Construction.cpp)
+1. [Grid Path Construction](/Additional%20Problems/Grid_Path_Construction.cpp) -->
