@@ -20,7 +20,7 @@ Over 280 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 # Table of Contents
 
 ## Introductory Problems
-1. [Weird Algorithm](/Introductory%20Problems/Weird%20Algorithm.cpp)
+1. [Weird Algorithm](/Introductory%20Problems/Weird_Algorithm.cpp)
 1. [Missing Number](/Introductory%20Problems/Missing%20Number.cpp)
 1. [Repetitions](/Introductory%20Problems/Repetitions.cpp)
 1. [Increasing Array](/Introductory%20Problems/Increasing%20Array.cpp)
